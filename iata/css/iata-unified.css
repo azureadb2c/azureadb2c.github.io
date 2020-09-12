@@ -1,0 +1,25 @@
+body {
+    background-image: url(../../assets/images/gettyimages-537879802.jpg);
+    height: 100vh;
+}
+
+.container {
+    height: 60vh;
+  }
+footer {
+    padding: 25px;
+    bottom: 0;
+}
+
+  footer hr {
+    margin-top: 5px;
+    margin-bottom: 15px;
+    }
+    footer .copy {
+        margin-top: 35px;
+    }
+.unified_container .row {
+    display: table-cell;
+}
+
+    
