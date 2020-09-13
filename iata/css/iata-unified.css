@@ -1,14 +1,21 @@
 body {
     background-image: url(../../assets/images/gettyimages-537879802.jpg);
     height: 100vh;
+    text-align: left;
 }
-
+button {
+    border-radius: 0;
+}
 .container {
     height: 60vh;
   }
+header {
+    height: 10vh;
+}
 footer {
-    padding: 25px;
+    /* padding: 25px; */
     bottom: 0;
+    height: 30vh;
 }
 
   footer hr {
@@ -22,4 +29,69 @@ footer {
     display: table-cell;
 }
 
-    
+.self_asserted_container .row {
+    display: table-cell;
+}
+
+.btn {
+    font-size: 0.9333333333rem;
+    font-weight: 500;
+    min-height: 40px;
+    border-color: transparent; }
+    .buttons #continue {
+      margin-top: 20px;
+      text-transform: uppercase;
+      background: #F04632;
+      position: relative;
+      padding: 0 30px 0 15px;
+      border-color: #F04632;
+      border-radius: 0;
+      color: #FFFFFF; }
+      .buttons #continue:hover, .buttons #continue:focus, .buttons #continue:active, .buttons #continue.active {
+        background: rgba(240, 70, 50, 0.6);
+        border-color: transparent; }
+        .buttons #continue:hover:hover, .buttons #continue:hover:focus, .buttons #continue:hover:active, .buttons #continue:focus:hover, .buttons #continue:focus:focus, .buttons #continue:focus:active, .buttons #continue:active:hover, .buttons #continue:active:focus, .buttons #continue:active:active, .buttons #continue.active:hover, .buttons #continue.active:focus, .buttons #continue.active:active {
+          background: rgba(240, 70, 50, 0.6) !important;
+          border-color: transparent !important; }
+      .buttons #continue:after {
+        content: "";
+        position: absolute;
+        bottom: 3px;
+        right: 3px;
+        width: 0;
+        height: 0;
+        border-style: solid;
+        border-width: 0 0 20px 20px;
+        border-color: transparent;
+        border-bottom-color: #FFFFFF; }
+
+.self_asserted_container .row .panel-default {
+  background-color: #F2F2F2;
+}
+  
+.accountButton, .buttons button {
+    background-color: 
+}
+
+#attributeList ul li input {
+    border-radius: 0px;
+  }
+  #attributeList ul li .attrEntry .verify #email_ver_but_send {
+    border-radius: 0px;
+  }
+  #attributeList ul li .attrEntry .verify #email_ver_but_verify {
+    border-radius: 0px;
+  } 
+  #attributeList ul li .attrEntry .verify #email_ver_but_resend {
+    border-radius: 0px;
+} 
+
+#attributeList ul li .attrEntry .verify #email_ver_but_edit {
+    border-radius: 0px;
+  }
+  #attributeList ul li .attrEntry .dropdown_single {
+    border-radius: 0px;
+  }
+  #attributeList ul li .attrEntry div#cpiminternal_dateOfBirth.date select {
+    border-radius: 0px;
+  }

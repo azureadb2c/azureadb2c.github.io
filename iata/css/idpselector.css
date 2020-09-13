@@ -23,7 +23,7 @@
 body {
   margin: 0;
   padding: 0;
-  text-align: center;
+  /* text-align: center; */
 }
 .container.unified_container .row .panel.panel-default .panel-body {
   padding: 3rem 1rem;
