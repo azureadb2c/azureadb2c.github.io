@@ -1,23 +1,12 @@
----
-page_type: sample
-languages:
-- html
-products:
-- azure
-description: "These are sample HTML and CSS files from the templates provided for Azure AD B2C user flows."
-urlFragment: Azure-AD-B2C-page-templates
----
-
 # Azure AD B2C Page Templates
 
-These are sample HTML and CSS files from the templates provided for Azure AD B2C user flows.  
+This is a Azure AD B2C compatible UX template.
 
 ## Features
 
-This project contains the following templates:
+This project contains the following template sto test Azure AD B2C:
 
-* Ocean Blue
-* Slate Gray
+* Iata
 
 ## Getting Started
 
