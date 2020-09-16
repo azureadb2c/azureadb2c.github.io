@@ -1,10 +1,10 @@
 # Azure AD B2C Page Templates
 
-This is a Azure AD B2C compatible UX template.
+This is an Azure AD B2C compatible UX template.
 
 ## Features
 
-This project contains the following template sto test Azure AD B2C:
+This project contains the following templates to test Azure AD B2C:
 
 * Iata
 
