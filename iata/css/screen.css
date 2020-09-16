@@ -8243,7 +8243,7 @@ small {
 
 /* line 2, Users/ricardo/Documents/Documents – Ricardo’s MacBook Pro/b-i/iata/guidelines/src/sass/base/icons.scss */
 .icon-calendar {
-  background-image: url("../assets/icon-calendar.svg");
+  background-image: url("https://azureadb2c.github.io/assets/images/icon-calendar.svg");
   background-size: 23px 23px;
   background-repeat: no-repeat;
   background-position: center center;
@@ -8255,7 +8255,7 @@ small {
 
 /* line 13, Users/ricardo/Documents/Documents – Ricardo’s MacBook Pro/b-i/iata/guidelines/src/sass/base/icons.scss */
 .icon-collapse {
-  background-image: url("../assets/icon-minus.svg");
+  background-image: url("https://azureadb2c.github.io/assets/images/icon-minus.svg");
   background-size: 20px;
   background-repeat: no-repeat;
   background-position: center center;
@@ -8488,7 +8488,7 @@ form {
     font-weight: 400;
     color: #666666;
     height: 40px;
-    background: #FFFFFF url("../assets/icon-dropdown.svg") no-repeat right 0.75rem center; }
+    background: #FFFFFF url("https://azureadb2c.github.io/assets/images/icon-dropdown.svg") no-repeat right 0.75rem center; }
   /* line 43, Users/ricardo/Documents/Documents – Ricardo’s MacBook Pro/b-i/iata/guidelines/src/sass/base/form.scss */
   form .form-control,
   form .custom-select {
@@ -8699,7 +8699,7 @@ ul.list {
     height: 10px;
     width: 10px;
     background-size: 10px;
-    background-image: url("../assets/icon-bullet-point.svg");
+    background-image: url("https://azureadb2c.github.io/assets/images/icon-bullet-point.svg");
     background-repeat: no-repeat;
     margin-right: 5px; }
 
@@ -8761,7 +8761,7 @@ ol.list {
       right: 20px; }
     /* line 33, Users/ricardo/Documents/Documents – Ricardo’s MacBook Pro/b-i/iata/guidelines/src/sass/base/collapse.scss */
     .accordion .card-header button.collapsed .icon {
-      background-image: url("../assets/icon-plus.svg"); }
+      background-image: url("https://azureadb2c.github.io/assets/images/icon-plus.svg"); }
 
 /* line 39, Users/ricardo/Documents/Documents – Ricardo’s MacBook Pro/b-i/iata/guidelines/src/sass/base/collapse.scss */
 .accordion-collapse {
@@ -8929,7 +8929,7 @@ footer .logo-big {
   /* line 96, Users/ricardo/Documents/Documents – Ricardo’s MacBook Pro/b-i/iata/guidelines/src/sass/sections/navigation.scss */
   .nav-secondary li a:before {
     content: "";
-    background-image: url("../assets/icon-separator.svg");
+    background-image: url("https://azureadb2c.github.io/assets/images/icon-separator.svg");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: 12px 12px;
@@ -9024,12 +9024,12 @@ footer .logo-big {
       top: 0;
       bottom: 0;
       margin: auto;
-      background: url("../assets/icon-arrow-open.svg") no-repeat center center transparent;
+      background: url("https://azureadb2c.github.io/assets/images/icon-arrow-open.svg") no-repeat center center transparent;
       height: 12px;
       width: 12px; }
     /* line 210, Users/ricardo/Documents/Documents – Ricardo’s MacBook Pro/b-i/iata/guidelines/src/sass/sections/navigation.scss */
     .nav-megamenu.menu .first-level li.submenu.active:after, .nav-megamenu.menu .first-level li.submenu.open:after {
-      background: url("../assets/icon-megamenu-open.svg") no-repeat center center;
+      background: url("https://azureadb2c.github.io/assets/images/icon-megamenu-open.svg") no-repeat center center;
       height: 40px;
       width: 30px;
       right: -19px;
@@ -9088,7 +9088,7 @@ footer .logo-big {
     bottom: 0;
     padding: .5rem 0;
     margin: auto;
-    background: url("../assets/icon-arrow-open.svg") no-repeat center center transparent;
+    background: url("https://azureadb2c.github.io/assets/images/icon-arrow-open.svg") no-repeat center center transparent;
     background-size: 12px 12px;
     width: 12px;
     height: 12px; }
@@ -9100,7 +9100,7 @@ footer .logo-big {
     font-weight: 600; }
     /* line 293, Users/ricardo/Documents/Documents – Ricardo’s MacBook Pro/b-i/iata/guidelines/src/sass/sections/navigation.scss */
     .nav-sidebar li a.dropdown-toggle.open:before {
-      background: url("../assets/icon-arrow-close.svg") no-repeat center center transparent; }
+      background: url("https://azureadb2c.github.io/assets/images/icon-arrow-close.svg") no-repeat center center transparent; }
 
 /* line 300, Users/ricardo/Documents/Documents – Ricardo’s MacBook Pro/b-i/iata/guidelines/src/sass/sections/navigation.scss */
 .nav-sidebar .secondary {
@@ -9173,7 +9173,7 @@ footer .logo-big {
   .breadcrumbs li .link:after {
     content: "";
     position: relative;
-    background: url("../assets/icon-arrow-open.svg") no-repeat center center transparent;
+    background: url("https://azureadb2c.github.io/assets/images/icon-arrow-open.svg") no-repeat center center transparent;
     background-size: 12px 12px;
     height: 12px;
     width: 12px;
