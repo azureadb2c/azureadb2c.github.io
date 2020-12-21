@@ -93,6 +93,8 @@
     </footer>
     <script>
         var is_production = document.location.hostname.startsWith("azureadb2cprod");
+        console.log("hostname is ", document.location.hostname);
+        console.log("is_production =",is_production);
         document.getElementById("providers-prd").hidden = !is_production;
         document.getElementById("providers-uat").hidden = is_production;
     </script>   
